@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 
 import helmMap from './Jade_helm_15.jpg';
 
