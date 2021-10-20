@@ -32,7 +32,7 @@ function App() {
 		  <div class="col-md-6">
 			<div class="h-100 p-5 bg-light border rounded-3" id="block3">
 				  <h2>Jade Helm</h2>
-				  <p>Will you be ready when the radical democrates declare Texas a hostile state?</p>
+				  <p>Will you be ready when the radical democrats declare Texas a hostile state?</p>
 			</div>
 		  </div>
 		</div>
