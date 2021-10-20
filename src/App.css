@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+
+#block1
+{
+	background-image: url("https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/images/outbreak-coronavirus-world-1024x506px.jpg?_=31301");
+	  background-size: cover; /* Resize the background image to cover the entire container */
+	  background-position: center; /* Center the image */
+}
+
+#block2
+{
+	/*
+	background-image: url("https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/images/outbreak-coronavirus-world-1024x506px.jpg?_=31301");
+	*/
+}
+
+#block3 p
+{
+	width: 60%;
+}
+
+#block3
+{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jade_helm_15.jpeg/1024px-Jade_helm_15.jpeg");
+	
+	  background-position: right center; 
+	  background-repeat: no-repeat; 
+	  
+	  	-o-background-size:40% auto;
+		-webkit-background-size:40% auto;
+		-moz-background-size:40% auto;
+		background-size:40% auto;
+}
+
+
